@@ -1,7 +1,7 @@
 {
   "name": "baseProjectKoa",
   "version": "1.0.0",
-  "main": "index.js",
+  "author": "Pablo Paixão",
   "license": "MIT",
   "scripts": {
     "dev": "tsnd -r tsconfig-paths/register -r dotenv/config --transpile-only --ignore-watch node_modules src/server.ts"
